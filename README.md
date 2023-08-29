@@ -6,5 +6,8 @@ Eu sou o Miguel Alvares, um estudante de desenvolvimento de sistemas com paixão
 
 ## Eu tenho conhecimento sobre:
 
+<p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://i.postimg.cc/vTkGR0jV/html5.png"></code>
+</p>
+
